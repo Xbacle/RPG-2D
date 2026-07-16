@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator anim;
     public int facingDirection = 1;
+    
     // Start is called before the first frame update
     
 
